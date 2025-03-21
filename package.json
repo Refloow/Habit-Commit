@@ -1,0 +1,29 @@
+{
+  "name": "habit-commit",
+  "version": "1.0.0",
+  "description": "/",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Refloow/Habit-Commit.git"
+  },
+  "keywords": [
+    "workout",
+    "tracker",
+    "nodejs",
+    "javascript",
+    "visual"
+  ],
+  "author": "Veljko Vuckovic (Refloow.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Refloow/Habit-Commit/issues"
+  },
+  "homepage": "https://github.com/Refloow/Habit-Commit#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
