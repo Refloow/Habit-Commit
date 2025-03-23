@@ -14,6 +14,10 @@
 ✅ **Lightweight & Fast** – No unnecessary bloat, runs smoothly  
 ✅ **Open Source & Free** – MIT-licensed, modify and self-host freely  
 
+# DISCORD Server:
+On the server anyone can feel free to ask questions, engage in the comunity and discover other free open source software i build
+**https://discord.gg/4enDY8yhuS**
+
 
 ## **Installation & Usage 🖥️**
 ### **1. Clone the Repository**
