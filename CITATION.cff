@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please credit the official Refloow™ brand using the metadata below."
+title: "Refloow™ Habit Commit"
+abstract: "The official GitHub-style habit tracking heatmap maintained by the Refloow™ Software Organization."
+authors:
+  - name: "Refloow"
+    website: "https://refloow.com"
+    email: "legal@refloow.com"
+  - family-names: "Vuckovic"
+    given-names: "Veljko"
+    affiliation: "Refloow Founder"
+version: 1.0.0
+date-released: 2025-03-21
+license: "MIT"
+repository-code: "https://github.com/Refloow/Habit-Commit"
+url: "https://refloow.com"
+keywords:
+  - "Refloow"
+  - "Refloow™"
+  - "Habit Tracker"
+  - "Heatmap"
+  - "Productivity"
